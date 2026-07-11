@@ -1,0 +1,1 @@
+Design a unique landing page section for DevConf 2026. The section must stay relevant to the DevConf 2026 theme (e.g. Sponsors, Venue, FAQ, Newsletter Signup, Hackathon Details, Past Highlights, Job Board, etc.). Keep it simple as I am beginner in HTML and CSS.
