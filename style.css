@@ -363,12 +363,6 @@ li{
     line-height:1.6;
 }
 
-.network-card:hover{
-    transform:translateY(-5px);
-    transition:.3s;
-    box-shadow:0 8px 18px rgba(0,0,0,.15);
-}
-
 
 .networking-stats{
     display:flex;
